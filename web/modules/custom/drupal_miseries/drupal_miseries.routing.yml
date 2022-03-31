@@ -1,0 +1,7 @@
+drupal_miseries.customrest:
+  path: '/api/test'
+  defaults:
+    _controller: '\Drupal\drupal_miseries\Rest\CustomRest::getLatestNodes'
+  methods: [GET]
+  requirements:
+    _access: 'TRUE'
