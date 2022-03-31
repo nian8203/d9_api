@@ -1,0 +1,6 @@
+name: Entrenamiento Bits
+description: Formulario desarrollo taller bits
+package: Custom
+
+type: module
+core_version_requirement: ^8 || ^9

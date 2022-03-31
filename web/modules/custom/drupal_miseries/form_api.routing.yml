@@ -1,0 +1,7 @@
+form_api.settings:
+  path: '/admin/config/my-form'
+  defaults:
+    _form: '\Drupal\drupal_miseries\Form\FormApi'
+    _title: 'Entrenamiento Bits'
+  requirements:
+    _permission: 'administer site configuration'
