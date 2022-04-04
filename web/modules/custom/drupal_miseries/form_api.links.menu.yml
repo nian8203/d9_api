@@ -1,0 +1,6 @@
+form_api.admin:
+  title: 'Entrenamiento Bits'
+  description: 'example of how to make an admin settings page link'
+  parent: system.admin_config_development #seccion donde se ubica nuestro link
+  route_name: form_api.settings #titulo de routing
+  weight: 100

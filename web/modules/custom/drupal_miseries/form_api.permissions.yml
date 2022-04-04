@@ -1,0 +1,4 @@
+entrenamiento form access:
+  title: 'Formulario entrenamiento'
+  description: 'Permitir el acceso a usuarios anonimos.'
+  restrict access: true

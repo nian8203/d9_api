@@ -4,4 +4,4 @@ form_api.settings:
     _form: '\Drupal\drupal_miseries\Form\FormApi'
     _title: 'Entrenamiento Bits'
   requirements:
-    _permission: 'administer site configuration'
+    _permission: 'entrenamiento form access'
